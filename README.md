@@ -1,5 +1,9 @@
 # -Python-Flask-Coupon-Backend
 
+## 技术栈
+
+* Flask
+
 ## 程序结构
 
 * 基于Flask的后端服务器
